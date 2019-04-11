@@ -1,0 +1,13 @@
+{
+    "response": [
+      {
+        "datetime": 1555027200,
+        "filename": "lineage-DarkPhoenix-16.0-20190411.zip",
+        "id": "BD8A9BFFFC94CF739E722B8886B11F75",
+        "romtype": "nightly",
+        "size": 614601609,
+        "url": "https://example.com/ota-package.zip",
+        "version": "16.0"
+      }
+    ]
+}
